@@ -1,0 +1,52 @@
+{
+    "Sheri": {
+        "mood": "Cold War",
+        "roast": "She said 'Shari'. Time to hide. 🥶",
+        "theme": "rage"
+    },
+    "Hmmmm": {
+        "mood": "Boiling Rage",
+        "roast": "That 'Hmmmm' could melt steel. 🔥",
+        "theme": "fury"
+    },
+    "Ok da": {
+        "mood": "Emotional Threat",
+        "roast": "'Ok da' = Emotional bomb planted. 💣",
+        "theme": "fury"
+    },
+    "Whatever": {
+        "mood": "Dismissive Rage",
+        "roast": "Ah yes, the classic 'whatever'. Translation: I'm plotting your demise. ☠️",
+        "theme": "rage"
+    },
+    "Good for you": {
+        "mood": "Sarcastic Fury",
+        "roast": "'Good for you' detected. Secret meaning: I hope you trip. 🤬",
+        "theme": "fury"
+    },
+    "No problem": {
+        "mood": "Fake Calm",
+        "roast": "'No problem' = 'I'll remember this forever'. 🧨",
+        "theme": "calm"
+    },
+    "As you wish": {
+        "mood": "Cold War",
+        "roast": "'As you wish' activated. Prepare for silent treatment. ❄️",
+        "theme": "rage"
+    },
+    "Fine": {
+        "mood": "Suppressed Anger",
+        "roast": "'Fine' detected. Warning: Emotional explosion imminent. 💥",
+        "theme": "fury"
+    },
+    "Interesting": {
+        "mood": "Passive-Aggressive",
+        "roast": "'Interesting' translation: I completely disagree but won't say it. 🙄",
+        "theme": "funny"
+    },
+    "Cool": {
+        "mood": "Fake Enthusiasm",
+        "roast": "Detected fake 'cool'. Actual meaning: I don't care at all. 🥱",
+        "theme": "calm"
+    }
+}
