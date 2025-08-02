@@ -1,52 +1,72 @@
 {
-    "Sheri": {
-        "mood": "Cold War",
-        "roast": "She said 'Shari'. Time to hide. 🥶",
-        "theme": "rage"
-    },
-    "Hmmmm": {
-        "mood": "Boiling Rage",
-        "roast": "That 'Hmmmm' could melt steel. 🔥",
-        "theme": "fury"
-    },
-    "Ok da": {
-        "mood": "Emotional Threat",
-        "roast": "'Ok da' = Emotional bomb planted. 💣",
-        "theme": "fury"
-    },
-    "Whatever": {
-        "mood": "Dismissive Rage",
-        "roast": "Ah yes, the classic 'whatever'. Translation: I'm plotting your demise. ☠️",
-        "theme": "rage"
-    },
-    "Good for you": {
-        "mood": "Sarcastic Fury",
-        "roast": "'Good for you' detected. Secret meaning: I hope you trip. 🤬",
-        "theme": "fury"
-    },
-    "No problem": {
-        "mood": "Fake Calm",
-        "roast": "'No problem' = 'I'll remember this forever'. 🧨",
-        "theme": "calm"
-    },
-    "As you wish": {
-        "mood": "Cold War",
-        "roast": "'As you wish' activated. Prepare for silent treatment. ❄️",
-        "theme": "rage"
-    },
-    "Fine": {
-        "mood": "Suppressed Anger",
-        "roast": "'Fine' detected. Warning: Emotional explosion imminent. 💥",
-        "theme": "fury"
-    },
-    "Interesting": {
-        "mood": "Passive-Aggressive",
-        "roast": "'Interesting' translation: I completely disagree but won't say it. 🙄",
-        "theme": "funny"
-    },
-    "Cool": {
-        "mood": "Fake Enthusiasm",
-        "roast": "Detected fake 'cool'. Actual meaning: I don't care at all. 🥱",
-        "theme": "calm"
-    }
+  "Sheri": {
+    "mood": "Cold War",
+    "roast": "'Sheri'? Ah yes, the war has officially begun. Pack your bags. 🧊",
+    "theme": "rage"
+  },
+  "Hmmmm": {
+    "mood": "Boiling Rage",
+    "roast": "That ‘Hmmmm’ carries enough tension to power a nuclear reactor. 🔥☢️",
+    "theme": "fury"
+  },
+  "Ok da": {
+    "mood": "Emotional Threat",
+    "roast": "'Ok da' = silent screaming. Emotional damage loading... 💣🫠",
+    "theme": "fury"
+  },
+  "Whatever": {
+    "mood": "Dismissive Rage",
+    "roast": "‘Whatever’ = I hope your Netflix account gets hacked. ☠️📺",
+    "theme": "rage"
+  },
+  "Good for you": {
+    "mood": "Sarcastic Fury",
+    "roast": "‘Good for you’ = Wow, do you want a cookie or a medal? 🥴🍪",
+    "theme": "fury"
+  },
+  "No problem": {
+    "mood": "Fake Calm",
+    "roast": "'No problem' – just added it to my list of eternal grudges. 🧨📝",
+    "theme": "calm"
+  },
+  "As you wish": {
+    "mood": "Cold War",
+    "roast": "'As you wish'? Say goodbye to peace. Cue the ice age. ❄️🕊️",
+    "theme": "rage"
+  },
+  "Fine": {
+    "mood": "Suppressed Anger",
+    "roast": "'Fine' = nothing is fine. EVERYTHING IS ON FIRE. 💥🔥😃",
+    "theme": "fury"
+  },
+  "Interesting": {
+    "mood": "Passive-Aggressive",
+    "roast": "‘Interesting’ = I’ve never heard something dumber, but go off. 🙃",
+    "theme": "funny"
+  },
+  "Cool": {
+    "mood": "Fake Enthusiasm",
+    "roast": "‘Cool’? You just hit me with the emotional equivalent of a voicemail beep. 🥶📞",
+    "theme": "calm"
+  },
+  "If you say so": {
+    "mood": "Mock Agreement",
+    "roast": "‘If you say so’ = That’s the dumbest thing I’ve heard today, but sure. 🥴",
+    "theme": "rage"
+  },
+  "I'm not mad": {
+    "mood": "Blatant Lie",
+    "roast": "'I'm not mad' = I’m writing a mental novel called *‘Why You're the Problem’*. 📖💀",
+    "theme": "fury"
+  },
+  "It's fine, really": {
+    "mood": "Emotional Blackmail",
+    "roast": "‘It’s fine, really’ = The guilt trip bus has no brakes. 🚌💢",
+    "theme": "fury"
+  },
+  "K": {
+    "mood": "Digital Slap",
+    "roast": "‘K’ = One-letter way of saying 'I hate you, respectfully'. 📱⚰️",
+    "theme": "rage"
+  }
 }

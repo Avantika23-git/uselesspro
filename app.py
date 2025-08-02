@@ -3,6 +3,7 @@ from gtts import gTTS
 import speech_recognition as sr
 import json
 import os
+import time
 
 # 🌈 Dynamic Color Themes
 MOOD_THEMES = {
@@ -263,11 +264,11 @@ def main():
                     </div>
                     """, unsafe_allow_html=True)
                     
-                    # Speak the roast
                     speak(mood_data["roast"])
-                    
-                    # Rerun to apply new theme
+                    time.sleep(10)
                     st.rerun()
+
+
                 else:
                     st.warning("🤔 Please enter or speak a message first!")
         
